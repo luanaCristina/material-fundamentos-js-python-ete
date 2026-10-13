@@ -12,6 +12,8 @@ Este repositório contém o material completo de fundamentos de programação us
 - corrigir erros;
 - explicar a decisão tomada.
 
+Para conduzir especificamente as aulas de Python, consulte a [Orientação de uso em aula — Python](docs/ORIENTACAO_USO_AULA_PYTHON.md). Ela contém a preparação do ambiente, roteiro de aula de três horas, progressão de conteúdos, exercícios, erros comuns e a introdução gradual de APIs.
+
 ## Sugestão de sequência
 
 ### Aula 1 — ambiente e terminal
